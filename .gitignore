@@ -155,3 +155,8 @@ x509.genkey
 
 # Documentation toolchain
 sphinx_*/
+
+# Others
+
+build.sh
+arch/x86/configs/wsl2_defconfig.old
