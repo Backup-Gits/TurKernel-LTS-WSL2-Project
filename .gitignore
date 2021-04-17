@@ -159,5 +159,3 @@ sphinx_*/
 # Others
 
 build.sh
-arch/x86/configs/wsl2_defconfig.old
-arch/x86/configs/wsl2_defconfig
